@@ -1,7 +1,7 @@
 ![logo](https://github.com/tkamal1/Tridib-kamal/blob/main/Orange%20Modern%20Technology%20LinkedIn%20Banner.png)
  <h1 align="center">Hi 👋, I'm Tridib-kamal</h1>
 <h3 align="center">A passionate software engineer from India</h3>
-<img align="right"  width="400px" src="[https://github.com/tkamal1/Tridib-kamal/commit/3c6b5cc82a9bb5eff0b0fcee511474112647bf29](https://github.com/tkamal1/Tridib-kamal/blob/main/coding%20(1).gif)"/>
+<img align="right"  width="400px" src="https://github.com/tkamal1/Tridib-kamal/blob/main/coding%20(1).gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tkamal1&label=Profile%20views&color=0e75b6&style=flat" alt="tkamal1" /> </p>
 
 - 🌱 I’m currently learning **Data Analytics,AI ML**
